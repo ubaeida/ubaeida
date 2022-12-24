@@ -26,3 +26,6 @@ I am open for Offers
 
 You can find and get in touch with me on below accounts!
 
+[![Linkedin Badge](https://img.shields.io/badge/mhddurrah-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ubaeida-al-kayal/)
+
+
