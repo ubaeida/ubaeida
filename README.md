@@ -18,7 +18,7 @@ I am open for Offers
 
 ## 🧠 Know / Using
 
-<img src="https://github.com/github/explore/blob/master/topics/java/java.png?raw=true" height="32" />
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png?raw=true" height="32" />
 <img src="https://github.com/github/explore/blob/master/topics/kotlin/kotlin.png?raw=true" height="32" />
 <img src="https://github.com/github/explore/blob/master/topics/groovy/groovy.png?raw=true" height="32" />
 <img src="https://github.com/github/explore/blob/master/topics/maven/maven.png?raw=true" height="32" />
