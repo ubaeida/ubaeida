@@ -1,4 +1,4 @@
-### Software Engineer
+### Software Developer
 
 Looking for an entry-level position as a Software developer in a dynamic firm that values my analytical and technical skills and provides scope for updating my
 knowledge, I seek a company that will help me contribute to its development while concurrently aiding my personal growth.
