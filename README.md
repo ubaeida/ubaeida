@@ -4,8 +4,6 @@ Looking for an entry-level position as a Software developer in a dynamic firm th
 knowledge, I seek a company that will help me contribute to its development while concurrently aiding my personal growth.
 
 
-![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fubaeida.ubaeida%2Freadme)
-
 ## Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ubaeida&show_icons=true&count_private=true&include_all_commits=true&title_color=eb1b0c&icon_color=eb1b0c)
 
