@@ -1,6 +1,6 @@
 ### Software Developer
 
-A proficient  Software Developer in Java, JavaScript, and Python with full-stack development and database management expertise. Strong problem-solving skills, collaboration abilities, and a passion for delivering high-quality software solutions.
+A junior  Software Developer in Java, JavaScript, and Python with full-stack development and database management expertise. Strong problem-solving skills, collaboration abilities, and a passion for delivering high-quality software solutions.
 
 ## Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ubaeida&show_icons=true&count_private=true&include_all_commits=true&title_color=eb1b0c&icon_color=eb1b0c)
