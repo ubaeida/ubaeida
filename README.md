@@ -1,8 +1,6 @@
 ### Software Developer
 
-Looking for an entry-level position as a Software developer in a dynamic firm that values my analytical and technical skills and provides scope for updating my
-knowledge, I seek a company that will help me contribute to its development while concurrently aiding my personal growth.
-
+A proficient  Software Developer in Java, JavaScript, and Python with full-stack development and database management expertise. Strong problem-solving skills, collaboration abilities, and a passion for delivering high-quality software solutions.
 
 ## Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ubaeida&show_icons=true&count_private=true&include_all_commits=true&title_color=eb1b0c&icon_color=eb1b0c)
